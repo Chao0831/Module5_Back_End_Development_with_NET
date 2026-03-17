@@ -1,2 +1,2 @@
 # Module5_Back_End_Development_with_NET
-Back_End_Development_with_NET
+The User Management API is a robust RESTful web service developed for TechHive Solutions to streamline employee data management across their HR and IT departments. This API provides comprehensive CRUD (Create, Read, Update, Delete) operations for managing user records with enterprise-grade security, logging, and error handling features.
